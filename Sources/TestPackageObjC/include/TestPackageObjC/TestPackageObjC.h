@@ -1,1 +1,1 @@
-../../TestPackageObjC/TestPackageObjC.h
+../../TestPackageObjC.h

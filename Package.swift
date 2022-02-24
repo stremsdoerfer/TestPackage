@@ -24,6 +24,7 @@ let package = Package(
             dependencies: []),
         .target(
             name: "TestPackageObjC",
-            dependencies: []),
+            dependencies: [],
+            publicHeadersPath: "include"),
     ]
 )

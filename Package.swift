@@ -10,6 +10,9 @@ let package = Package(
         .library(
             name: "TestPackage",
             targets: ["TestPackage"]),
+        .library(
+            name: "TestPackageObjc",
+            targets: ["TestPackageObjC"]),
     ],
     dependencies: [
     ],
